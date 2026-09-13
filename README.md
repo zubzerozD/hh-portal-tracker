@@ -11,7 +11,7 @@
 
 [![Invite Bot](https://img.shields.io/badge/Invite_Bot-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1537327610642567229&permissions=2147567680&scope=bot%20applications.commands)
 [![Dashboard](https://img.shields.io/badge/Dashboard-0ea5e9?style=for-the-badge)](https://hh-portal-tracker.quanthia.cl)
-[![Support Server](https://img.shields.io/badge/Support_Server-ff3385?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hhportals)
+[![Support Server](https://img.shields.io/badge/Support_Server-ff3385?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jG6uPJDSF8)
 
 </div>
 
@@ -63,7 +63,7 @@ Oasis Lobby · Furniture Forum · Beach · Fusion Kitchen · Velvet Room · Rela
 
 ## Contact
 
-- **Discord:** [Support Server](https://discord.gg/hhportals)
+- **Discord:** [Support Server](https://discord.gg/jG6uPJDSF8)
 - **Dashboard:** [hh-portal-tracker.quanthia.cl](https://hh-portal-tracker.quanthia.cl)
 
 ---
